@@ -3,6 +3,7 @@ This Repository will introduce me and my work.
 
 ### Hello Folks 👋
 I am Michael Cyrus and I am a IT Systems Designer [MJCYRUS](https://github.com/michaeljamescyrus)!
+This is also an Organisation I contribute to [Ksathra Systems](https://github.com/Ksathra-Systems-Limited)!
 
 I am a highly talented and experienced technical delivery manager, who has the passion, communication, agility and entrepreneurial skills to assimilate comprehensive scientific,
 technical and business concepts from people with different backgrounds. Having supervised and managed numerous teams globally in several industries, which have included telecom, fmcg, digital, media
