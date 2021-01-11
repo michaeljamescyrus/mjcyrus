@@ -11,6 +11,10 @@ technical and business concepts from people with different backgrounds. Having s
 and communications, oil and gas, banking, retail and fashion, electronic payments and health to achieve set project goals together with strong technical leadership, analysis, design and delivery
 skills, which has included complex systems integration, bespoke software development and enterprise package configuration, customisation and deployment.
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 # My StackOverflow Activities
 <!-- STACKOVERFLOW:START -->
 #### [All Blogs](https://www.ksathra.com/blog/)
